@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/eng-mahmoud-awad">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:eng.mahmoud.awad@example.com">
+  <a href="mailto:mahmoud.awad.mo1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
 </p>
