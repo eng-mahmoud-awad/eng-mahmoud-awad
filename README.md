@@ -37,11 +37,11 @@ I focus on HTML, CSS, JavaScript, and React, and I'm expanding into TypeScript, 
 
 *These are training projects built while learning core frontend concepts — not production products, but each one taught me something specific.*
 
-**[Courses Manager](https://eng-mahmoud-awad.github.io/TempThree/](https://courses-manager-lyart.vercel.app/ar))**
+**[Courses Manager](https://courses-manager-lyart.vercel.app/ar/sign-up)**
 *"A personal workspace for organizing everything you're learning — courses broken down into topics, each with its own notes, saved articles, and quick-reference commands. Built to replace scattered notes across multiple apps with one place that keeps courses, learning material, and cheat sheets connected and easy to find."*
 `NextJs` `MongoDB`
 
-**[My Portfolio](https://eng-mahmoud-awad.github.io/tempFour/](https://my-portfolio-eight-wine-33.vercel.app/))**
+**[My Portfolio](https://my-portfolio-eight-wine-33.vercel.app/)**
 *I focused on building a fancy portfolio for me using what i learn in NextJs*
 `NextJs` `MongoDB`
 
