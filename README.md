@@ -37,17 +37,15 @@ I focus on HTML, CSS, JavaScript, and React, and I'm expanding into TypeScript, 
 
 *These are training projects built while learning core frontend concepts — not production products, but each one taught me something specific.*
 
-**[TempThree](https://eng-mahmoud-awad.github.io/TempThree/)**
-*(اكتب هنا: إيه اللي اتعلمته من المشروع ده؟ مثلاً: "Practiced building responsive layouts with CSS Grid and Flexbox" أو "Focused on component structure in React")*
-`React` `CSS`
+**[Courses Manager]([https://eng-mahmoud-awad.github.io/TempThree/](https://courses-manager-lyart.vercel.app/ar))**
+*"A personal workspace for organizing everything you're learning — courses broken down into topics, each with its own notes, saved articles, and quick-reference commands. Built to replace scattered notes across multiple apps with one place that keeps courses, learning material, and cheat sheets connected and easy to find."*
+`NextJs` `MongoDB`
 
-**[tempFour](https://eng-mahmoud-awad.github.io/tempFour/)**
-*(نفس الفكرة — إيه اللي ركزت عليه في المشروع ده تحديدًا)*
-`React` `CSS`
+**[My Portfolio]([https://eng-mahmoud-awad.github.io/tempFour/](https://my-portfolio-eight-wine-33.vercel.app/))**
+*I focused on building a fancy portfolio for me using what i learn in NextJs*
+`NextJs` `MongoDB`
 
 [See all repositories →](https://github.com/eng-mahmoud-awad?tab=repositories)
-
-> **ملحوظة ليك:** أهم حاجة دلوقتي إنك تبني مشروع واحد "حقيقي" — يعني حاجة بتحل مشكلة فعلية، مش تمرين من كورس. مشروع واحد زي ده بيفرق في الـ CV أكتر من 5 تمارين.
 
 ---
 
