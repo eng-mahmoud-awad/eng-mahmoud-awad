@@ -58,7 +58,7 @@ I focus on HTML, CSS, JavaScript, and React, and I'm expanding into TypeScript, 
 <img src="https://github-readme-stats.vercel.app/api?username=eng-mahmoud-awad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mahmoud-awad&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eng-mahmoud-awad&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=eng-mahmoud-awad&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eng-mahmoud-awad&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Activity Graph"/>
 
